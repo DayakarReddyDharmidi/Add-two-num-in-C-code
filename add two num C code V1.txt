@@ -10,10 +10,11 @@ int main() {
     scanf("%d %d", &num1, &num2);
 
     // Calculate the sum of the two numbers
-    sum = num1 + num2;
+    sum = num1 + num2;// addtion of those two num
 
     // Display the result
     printf("The sum of %d and %d is %d\n", num1, num2, sum);
 
     return 0; // Indicate successful program execution
+
 }
