@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int num1, num2, sum;
+    //int num1, num2, sum;
+float num1, num2, sum;// float numbers by Dayakar
 
     // Prompt the user to enter two numbers
     printf("Enter two integers: ");
@@ -18,3 +19,4 @@ int main() {
     return 0; // Indicate successful program execution
 
 }
+
